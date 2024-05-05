@@ -1,0 +1,34 @@
+html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+#logo{
+    width: 200px;
+    height:140px;
+    margin-top: 10px;
+    margin-left: 250px;
+}
+.full-box{
+    background-color: #f3e9ff;
+    width: 700px;
+    height: 100%;
+    margin: 0 auto;
+}
+.header{
+    margin: 0 auto;
+    text-align: center;
+}
+.body-box{
+    margin: 0 auto;
+    background-color: #774ad8;
+    width: 500.69px;
+    height: 493px;
+    border-radius: 20px;
+}
+h1,p,.yelow-color{
+    margin-left: 50px;
+}
+.yelow-color{
+    color: yellow;
+}
